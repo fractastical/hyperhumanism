@@ -1,5 +1,8 @@
 # hyperhumanism
 
+## definition
+
+technologies and tools for expanding conscoiusenes. 
 
 
 ## projects
