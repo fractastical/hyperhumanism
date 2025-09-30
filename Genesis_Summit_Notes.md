@@ -39,11 +39,18 @@
 - Commons: organize and showcase these technologies as shared resources with open access and shared governance.
 
 ---
+
+## Methods (Timothee Bres and Pamela von Sabljar)  
+- Mix between logos (sometimes triggering) and embodied awareness
+- Better to have confrontation than to be bored  
+- Embodiment leads to increased resonance leads to eros which is the ultimate glue of future forms 
+
 ## Synthesis - Core takeaway
 - Build place-based, worker-owned regenerative projects that share open designs and a multi-capital ledger globally (cosmo-local).
 - Frame this with Hyperhumanism: tools should enhance human depth and reciprocity with nature, not replace transmission and resonance.
 - Use partner-state style support and translocal coordination, while keeping governance federated.
 - Aim for concrete benefits first (lower bills, better wages, restored land) to bridge the digital-local divide.
+- Build resonance first then work out practical details 
 
 ---
 ## References
